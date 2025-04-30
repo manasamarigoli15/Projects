@@ -1,0 +1,17 @@
+.addproperty-background
+{
+    background-color: #E8F9FD;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90rem;
+}
+
+.editproperty-background
+{
+    background-color: #E8F9FD;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70rem;
+}

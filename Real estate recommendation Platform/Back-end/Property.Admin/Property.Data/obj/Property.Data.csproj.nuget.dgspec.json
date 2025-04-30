@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Data\\Property.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Admin\\Properties.Admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Admin\\Properties.Admin.csproj",
+        "projectName": "Properties.Admin",
+        "projectPath": "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Admin\\Properties.Admin.csproj",
+        "packagesPath": "C:\\Users\\namitha.bm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Admin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\namitha.bm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Data\\Property.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Data\\Property.Data.csproj",
+        "projectName": "Property.Data",
+        "projectPath": "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Data\\Property.Data.csproj",
+        "packagesPath": "C:\\Users\\namitha.bm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\namitha.bm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Admin\\Properties.Admin.csproj": {
+                "projectPath": "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Admin\\Properties.Admin.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,464 @@
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.json
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.exe
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.deps.json
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.runtimeconfig.json
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.pdb
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.AssemblyReference.cache
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfoInputs.cache
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfo.cs
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CoreCompileInputs.cache
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.Api.Properties.Customers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.Properties.Customers.props
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.Properties.Customers.props
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.Properties.Customers.props
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\scopedcss\bundle\Api.Properties.Customers.styles.css
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CopyComplete
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\refint\Api.Properties.Customers.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.genruntimeconfig.cache
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\ref\Api.Properties.Customers.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.Development.json
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.json
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.exe
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.deps.json
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.runtimeconfig.json
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.pdb
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.AssemblyReference.cache
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfoInputs.cache
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfo.cs
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CoreCompileInputs.cache
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.Api.Properties.Customers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.Properties.Customers.props
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.Properties.Customers.props
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.Properties.Customers.props
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\scopedcss\bundle\Api.Properties.Customers.styles.css
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CopyComplete
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\refint\Api.Properties.Customers.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.genruntimeconfig.cache
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\ref\Api.Properties.Customers.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.Development.json
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.json
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.exe
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.deps.json
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.runtimeconfig.json
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.pdb
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.pdb
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.pdb
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.AssemblyReference.cache
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfoInputs.cache
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfo.cs
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CoreCompileInputs.cache
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.Api.Properties.Customers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.Properties.Customers.props
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.Properties.Customers.props
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.Properties.Customers.props
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.build.json
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.development.json
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\scopedcss\bundle\Api.Properties.Customers.styles.css
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CopyComplete
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\refint\Api.Properties.Customers.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.pdb
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.genruntimeconfig.cache
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\ref\Api.Properties.Customers.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.Development.json
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.json
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.exe
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.deps.json
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.runtimeconfig.json
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.pdb
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.AssemblyReference.cache
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfoInputs.cache
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfo.cs
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CoreCompileInputs.cache
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.Api.Properties.Customers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.Properties.Customers.props
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.Properties.Customers.props
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.Properties.Customers.props
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\scopedcss\bundle\Api.Properties.Customers.styles.css
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CopyComplete
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\refint\Api.Properties.Customers.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.genruntimeconfig.cache
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\ref\Api.Properties.Customers.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.exe
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.deps.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.runtimeconfig.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.AssemblyReference.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfoInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfo.cs
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CoreCompileInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\scopedcss\bundle\Api.Properties.Customers.styles.css
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CopyComplete
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\refint\Api.Properties.Customers.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.genruntimeconfig.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\ref\Api.Properties.Customers.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.Development.json
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.json
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.exe
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.deps.json
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.runtimeconfig.json
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.pdb
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.AssemblyReference.cache
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfoInputs.cache
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfo.cs
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CoreCompileInputs.cache
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.MvcApplicationPartsAssemblyInfo.cache
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.Api.Properties.Customers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.Properties.Customers.props
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.Properties.Customers.props
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.Properties.Customers.props
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\scopedcss\bundle\Api.Properties.Customers.styles.css
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CopyComplete
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\refint\Api.Properties.Customers.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.genruntimeconfig.cache
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\ref\Api.Properties.Customers.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\appsettings.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.exe
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.deps.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.runtimeconfig.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Data.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.AssemblyReference.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfoInputs.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.AssemblyInfo.cs
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.csproj.CoreCompileInputs.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.Api.Properties.Customers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.Properties.Customers.props
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.Properties.Customers.props
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.Properties.Customers.props
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\scopedcss\bundle\Api.Properties.Customers.styles.css
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Prop.E66B5E29.Up2Date
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\refint\Api.Properties.Customers.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\Api.Properties.Customers.genruntimeconfig.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Api.Properties.Customers\obj\Debug\net6.0\ref\Api.Properties.Customers.dll

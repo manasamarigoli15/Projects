@@ -1,0 +1,34 @@
+.cards{
+    transition: transform 0.2s ease;
+}
+.cards:hover{
+    transform: scale(1.1);
+}
+
+.footer-bg 
+{
+    background-color: #205295;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.bgcolor {
+    background-color: #2C74B3;
+}
+
+.black-bg {
+  background: url('../../assets/img/homebg2.webp');
+  background-size: cover;
+  height: 32rem;
+}
+
+.searchBar {
+  margin-top: 10rem;
+  margin-left: 3rem;
+}
+
+.tagline {
+  margin-left: 18rem;
+}

@@ -1,0 +1,83 @@
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.deps.json
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.AssemblyReference.cache
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfoInputs.cache
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfo.cs
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\refint\Properties.Exceptions.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.pdb
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\ref\Properties.Exceptions.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.deps.json
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.AssemblyReference.cache
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfoInputs.cache
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfo.cs
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.CoreCompileInputs.cache
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\refint\Properties.Exceptions.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.pdb
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\ref\Properties.Exceptions.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.deps.json
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.AssemblyReference.cache
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfoInputs.cache
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfo.cs
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.CoreCompileInputs.cache
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\refint\Properties.Exceptions.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.pdb
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\ref\Properties.Exceptions.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.deps.json
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.AssemblyReference.cache
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfoInputs.cache
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfo.cs
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.CoreCompileInputs.cache
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\refint\Properties.Exceptions.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.pdb
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\ref\Properties.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.deps.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.AssemblyReference.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfoInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfo.cs
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\refint\Properties.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\ref\Properties.Exceptions.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.deps.json
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.AssemblyReference.cache
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfoInputs.cache
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfo.cs
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.CoreCompileInputs.cache
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\refint\Properties.Exceptions.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.pdb
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\ref\Properties.Exceptions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.deps.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\bin\Debug\net6.0\Properties.Exceptions.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.AssemblyInfo.cs
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\refint\Properties.Exceptions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\Properties.Exceptions.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Properties.Exceptions\obj\Debug\net6.0\ref\Properties.Exceptions.dll

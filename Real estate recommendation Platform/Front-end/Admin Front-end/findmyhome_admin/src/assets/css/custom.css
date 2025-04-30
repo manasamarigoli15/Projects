@@ -1,0 +1,46 @@
+.side-bar
+{
+    position: fixed;
+    width: 1100px;
+}
+
+.side-card 
+{
+    max-height: 500px;
+}
+
+.side-body,.navbar
+{
+    background-color: #EFF5F5;
+}
+
+.cards{
+    transition: transform 0.2s ease;
+}
+.cards:hover{
+    transform: scale(1.1);
+}
+div.c2{
+    background-color: #59b1e88c;
+    border: none;
+}
+.c2icon{
+    color: rgb(83, 152, 204);
+}
+div.c1{
+    background-color: #99ECFD;
+    border: none;
+}
+.c1icon{
+    color: rgb(79, 185, 211);
+}
+div.c3{
+    background-color: #A9B7EB;
+    border: none;
+}
+.c3icon{
+    color: rgb(87, 36, 189);
+}
+
+
+

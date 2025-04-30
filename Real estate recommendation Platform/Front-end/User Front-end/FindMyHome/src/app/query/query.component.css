@@ -1,0 +1,20 @@
+/* .search-bg {
+    background-image: linear-gradient(rgb(123, 123, 223),rgb(216, 84, 84));
+    background-color: rgb(249, 240, 255);
+} */
+
+.noquery-card {
+     margin-top: 10rem;
+     width: 25rem;
+}
+
+.background {
+    background: url('../../assets/img/helpbg2.jfif');
+    background-size: cover;
+    background-position: center;
+    height: auto;
+}
+
+.bg-opacity {
+    opacity: 0.95;
+}

@@ -1,0 +1,13 @@
+.BrandDeals{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table-head{
+    background-color: rgb(166, 227, 231);
+}
+
+

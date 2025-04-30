@@ -1,0 +1,105 @@
+<section class="bg-image user-background vh-250">
+    <div class="row d-flex justify-content-center">
+        <div class="mt-4 text-center">
+            <img src="https://i.pinimg.com/736x/a6/26/15/a6261520ed946211a929afc31252cf7f.jpg" width="60" height="60" />
+            <span class="ms-2 mt-5 fs-2"><strong>FindMyHome</strong></span>
+        </div>
+        <div class="card mt-3 w-50 bg-light" style="border-radius: 15px;">
+            <div class="card-body p-5">
+                <b>
+                    <h2 class="text-uppercase text-center mb-5">Sign Up</h2>
+                </b>
+                <form (submit)="createUser(createaccountform.value)" #createaccountform="ngForm">
+                    <div class="form-outline mb-4">
+                        <div class="form-group">
+                            <label for="txtUserName">User Name</label>
+                            <input ngModel required minlength="3" pattern="[a-zA-Z\s]+" class="form-control" type="text"
+                                #t_userName="ngModel" name="userName" id="userName" [(ngModel)]="tempUser.name"
+                                placeholder="Enter username" [class.is-valid]="t_userName.valid">
+                            <p *ngIf="t_userName.invalid && t_userName.touched" class="text-danger">
+                                <small *ngIf="t_userName.errors?.['required']">Name Is Required</small>
+                                <small *ngIf="t_userName.errors?.['pattern']">Invalid Pattern</small><br>
+                                <small *ngIf="t_userName.errors?.['minlength']">Name should be atleast 3
+                                    letters</small>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="form-outline mb-4">
+                        <div class="form-group">
+                            <label for="txtEmail">Email</label>
+                            <input ngModel required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"
+                                class="form-control" type="email" #t_email="ngModel" name="email" id="email"
+                                [(ngModel)]="tempUser.email" placeholder="Enter email" [class.is-valid]="t_email.valid">
+                            <p *ngIf="t_email.invalid && t_email.touched" class="text-danger">
+                                <small *ngIf="t_email.errors?.['pattern']">Invalid Pattern</small>
+                                <small *ngIf="t_email.errors?.['required']">Email Is Required</small>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="form-outline mb-4">
+                        <div class="form-group">
+                            <label for="txtPassword">Password</label>
+                            <input ngModel required pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" #t_password="ngModel"
+                                type="password" id="password" name="password" class="form-control"
+                                placeholder="Enter password" [(ngModel)]="tempUser.password"
+                                [class.is-valid]="t_password.valid" />
+                            <span toggle="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></span>
+                            <p *ngIf="t_password.invalid && t_password.touched" class="text-danger">
+                                <small *ngIf="t_password.errors?.['required']">Password is required</small>
+                                <small *ngIf="t_password.errors?.['pattern']">Password should match pattern
+                                    : Must contain at least one number and one uppercase and lowercase
+                                    letter, and at least 8 or more characters
+                                </small>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="form-outline mb-4">
+                        <div class="form-outline">
+                            <label class="form-label" for="phoneNumber">Phone Number</label>
+                            <input ngModel required type="text" id="phoneNumber" name="phoneNumber" class="form-control"
+                                #t_phone="ngModel" placeholder="Enter phone number" [(ngModel)]="tempUser.phonenumber"
+                                pattern="^\d{10}$" [class.is-valid]="t_phone.valid" />
+                            <p *ngIf="t_phone.invalid && t_phone.touched" class="text-danger">
+                                <small *ngIf="t_phone.errors?.['required']">Phone number is required</small>
+                                <small *ngIf="t_phone.errors?.['pattern']">Invalid Phone number</small>
+                            </p>
+                        </div>
+                    </div>
+                    <!-- <div class="form-outline mb-4">
+                                    <div class="form-outline">
+                                        <label class="form-label" for="dob">Date Of Birth :</label>
+                                        <input ngModel required class="form-control" #t_dob="ngModel" type="date" id="dob" name="dob"
+                                        [class.is-valid]="t_dob.valid"/>
+                                        <p *ngIf="t_dob.invalid && t_dob.touched" class="text-danger">
+                                            <small *ngIf="t_dob.errors?.['required']">DOB is required</small>
+                                        </p>
+                                    </div>
+                                </div> -->
+                    <div class="form-outline mb-4">
+                        <div>
+                            <label class="form-label" for="txtAddress">Address</label>
+                            <textarea ngModel required type="text" id="address" name="address" class="form-control"
+                                #t_address="ngModel" placeholder="Enter address" [(ngModel)]="tempUser.address"
+                                [class.is-valid]="t_address.valid"></textarea>
+                            <p *ngIf="t_address.invalid && t_address.touched" class="text-danger">
+                                <small *ngIf="t_address.errors?.['required']">Address Is Required</small>
+                            </p>
+                        </div>
+                    </div>
+
+                    <br>
+ 
+                    <div class="d-flex justify-content-center">
+                        <button [disabled]="createaccountform.invalid" type="submit" class="btn btn-primary me-3"
+                            (click)="AddUser()">Register</button>
+                        <button type="submit"
+                            class="btn btn-danger btn-block btn-lg gradient-custom-4 text-body ms-2 ">Reset</button>
+                    </div>
+                    <p class="text-center mt-5 mb-0">Already have an account? <a routerLink="/login"
+                            class="fw-bold text-primary"><u><b>Login here</b></u></a></p>
+                </form>
+            </div>
+        </div>
+    </div>
+    <app-footer></app-footer>
+</section>

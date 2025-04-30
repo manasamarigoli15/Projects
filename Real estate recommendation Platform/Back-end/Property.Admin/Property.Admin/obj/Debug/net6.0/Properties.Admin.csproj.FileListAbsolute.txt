@@ -1,0 +1,83 @@
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.deps.json
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.AssemblyReference.cache
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfoInputs.cache
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfo.cs
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.CoreCompileInputs.cache
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\refint\Properties.Admin.dll
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.pdb
+C:\Users\dastageer.s\Downloads\team-2_findmyhome-9938_Latest\team-2_findmyhome-9938_Latest\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\ref\Properties.Admin.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.deps.json
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.AssemblyReference.cache
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfoInputs.cache
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfo.cs
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.CoreCompileInputs.cache
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\refint\Properties.Admin.dll
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.pdb
+C:\Project\original Project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\ref\Properties.Admin.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.deps.json
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.pdb
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.AssemblyReference.cache
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfoInputs.cache
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfo.cs
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.CoreCompileInputs.cache
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\refint\Properties.Admin.dll
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.pdb
+C:\PROJECTS\Dotnet Project\Latest333\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\ref\Properties.Admin.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.deps.json
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.AssemblyReference.cache
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfoInputs.cache
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfo.cs
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.CoreCompileInputs.cache
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\refint\Properties.Admin.dll
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.pdb
+C:\Project\original original project\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\ref\Properties.Admin.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.deps.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.AssemblyReference.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfoInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfo.cs
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.CoreCompileInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\refint\Properties.Admin.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Documents\MAIN_DOTNET_PROJECT\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\ref\Properties.Admin.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.deps.json
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.AssemblyReference.cache
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfoInputs.cache
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfo.cs
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.CoreCompileInputs.cache
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\refint\Properties.Admin.dll
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.pdb
+C:\Training\DotnetProject\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\ref\Properties.Admin.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.deps.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\bin\Debug\net6.0\Properties.Admin.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfoInputs.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.AssemblyInfo.cs
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.csproj.CoreCompileInputs.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\refint\Properties.Admin.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\Properties.Admin.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\FindMyHomeCode\team-2_findmyhome\Back-end\Property.Admin\Property.Admin\obj\Debug\net6.0\ref\Properties.Admin.dll

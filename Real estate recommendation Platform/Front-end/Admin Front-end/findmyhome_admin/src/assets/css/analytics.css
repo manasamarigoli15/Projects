@@ -1,0 +1,54 @@
+.cards{
+    transition: transform 0.2s ease;
+}
+.cards:hover{
+    transform: scale(1.1);
+}
+div.c2{
+    background-color: #59b1e88c;
+    border: none;
+}
+.c2icon{
+    color: rgb(83, 152, 204);
+}
+div.c1{
+    background-color: #99ECFD;
+    border: none;
+}
+.c1icon{
+    color: rgb(79, 185, 211);
+}
+div.c3{
+    background-color: #A9B7EB;
+    border: none;
+}
+.c3icon{
+    color: rgb(87, 36, 189);
+}
+div.c4{
+  background-color: #59CE8F;
+  border: none;
+}
+
+div.c5{
+  background-color: #FF8FB1;
+  border: none;
+}
+
+/* @media screen and (max-width: 1250px) {
+  .analytics-background {
+    height: auto;
+  }
+}
+@media screen and (min-width: 1250px) {
+  .analytics-background {
+    height: 50em;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .analytics-background {
+
+  }
+
+} */

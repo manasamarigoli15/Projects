@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Admin\\Property.Admin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Admin\\Property.Admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Admin\\Property.Admin.csproj",
+        "projectName": "Property.Admin",
+        "projectPath": "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Admin\\Property.Admin.csproj",
+        "packagesPath": "C:\\Users\\namitha.bm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Documents\\MAIN_DOTNET_PROJECT\\team-2_findmyhome\\Back-end\\Property.Admin\\Property.Admin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\namitha.bm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

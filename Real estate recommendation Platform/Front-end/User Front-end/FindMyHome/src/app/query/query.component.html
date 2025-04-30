@@ -1,0 +1,111 @@
+<section class="bg-image background">
+    <app-nav-bar></app-nav-bar>
+    <div class="container bg-opacity mt-3">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header p-3">
+                        <h4>Hello <b>{{user.name}}</b>, Need any help?</h4>
+                    </div>
+                    <div class="card-body fs-5">
+                        <div class="row search-bg">
+                            <div class="col-12">
+                                <!-- <h3>Have any questions? We've all the answers</h3>
+                                <div class="input-group">
+                                    <div class="col-6">
+                                        <input type="text" class="form-control"
+                                            placeholder="type your question here...">
+                                    </div>
+                                    <div class="col-1">
+                                        <span><i class="bi bi-search btn btn-danger px-3"></i></span>
+                                    </div>
+                                </div> -->
+                                <div class="card">
+                                    <div class="card-body">
+                                        <label for="txtName" class="mt-3">Your Name</label>
+                                        <input class="form-control mt-2" placeholder="enter your name" [(ngModel)]="q.name"/>
+                                        <label for="txtEmail" class="mt-3">Your Email</label>
+                                        <input class="form-control mt-2" placeholder="enter your email" [(ngModel)]="q.email" />
+                                        <label for="" class="mt-3">Your Query</label>
+                                        <textarea class="form-control mt-2" placeholder="type your question here..." [(ngModel)]="q.questions"></textarea>
+                                    </div>
+                                    <div class="card-footer p-3">
+                                        <button type="button" class="btn btn-primary" (click)="onSubmitQuery()">Submit</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row mt-5">
+                            <div class="col-12">
+                                <div class="input-group">
+                                    <div class="col-7">
+                                        <!-- <div>
+                                            <div class="card p-2 ms-5 text-center noquery-card">
+                                                <h3>You have no queries yet!</h3>
+                                            </div>
+                                        </div> -->
+                                        <div class="card" *ngFor="let q of query">
+                                            <div class="card-header"><div class="">{{q.questions}}</div></div>
+                                            <div class="card-body">
+                                                
+                                                <div class="mt-2">{{q.answers}}</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-5">
+                                        <div class="small"><b>Frequently asked questions</b></div>
+                                        <div class="card mt-3">
+                                            <div class="card-body">
+                                                <div class="card-text small"><b>What the first step of the home buying
+                                                        process?</b></div>
+                                                <div class="card-text small mt-1">Getting pre-approved for a mortgage is
+                                                    the first step of the home buying process. Getting a pre-approval
+                                                    letter from a lender get the ball rolling in the right direction.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card mt-3">
+                                            <div class="card-body">
+                                                <div class="card-text small"><b>How long does it take to buy a home?</b>
+                                                </div>
+                                                <div class="card-text small mt-1">From start (searching online) to
+                                                    finish (closing escrow), buying a home takes about 10 to 12 weeks.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card mt-3">
+                                            <div class="card-body">
+                                                <div class="card-text small"><b>How much do I have to pay an agent to
+                                                        help me buy a house?</b></div>
+                                                <div class="card-text small mt-1">Listing brokers represent sellers and
+                                                    charge a fee to represent them and market the property.</div>
+                                            </div>
+                                        </div>
+                                        <div class="card mt-3">
+                                            <div class="card-body">
+                                                <div class="card-text small"><b>What kind of credit score do I need to
+                                                        buy a home?</b></div>
+                                                <div class="card-text small mt-1">Most loan programs require a FICO
+                                                    score of 620 or better.</div>
+                                            </div>
+                                        </div>
+                                        <div class="card mt-3">
+                                            <div class="card-body">
+                                                <div class="card-text small"><b>How much do I need for a down
+                                                        payment?</b></div>
+                                                <div class="card-text small mt-1">The national average for down payments
+                                                    is 11%. But that figure includes first time and repeat buyers.</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <app-footer></app-footer>
+</section>
