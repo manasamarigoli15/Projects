@@ -74,9 +74,7 @@ This project is part of an academic and training initiative.
 
 ---
 
-## 🙋‍♂️ Contributor
-
-- **Manasa Vighneshwar Marigoli**  
-[LinkedIn](https://linkedin.com/in/manasa-marigoli) | [Email](mailto:manasamarigoli15@gmail.com)
+## 🙋‍♂️ Contributors
+Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.
 
 ---
