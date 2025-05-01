@@ -1,0 +1,21 @@
+.profile-background
+{
+    background-color: #e8f0f4;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 36em;
+}
+
+.editprofile-background
+{
+    background-color: #e8f0f4;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50em;
+}
+
+.profile-body {
+    background-color: #E8F9FD;
+}

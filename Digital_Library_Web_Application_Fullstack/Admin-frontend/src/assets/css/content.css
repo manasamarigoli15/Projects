@@ -1,0 +1,26 @@
+@media screen and (max-width: 1250px) {
+    .dash-content {
+      width: 100%;
+      height: auto;
+      position: relative;
+      margin-left: 250px;
+    }
+  }
+  @media screen and (min-width: 1250px) {
+    .dash-content {
+      margin-left: 300px;
+      margin-top: 35px;
+      margin-right: 20px;
+    }
+  }
+
+  @media screen and (max-width: 400px) {
+    .dash-content {
+      margin-left: 0px;
+      margin-right: 50px;
+      width: 100%;
+    }
+
+  }
+
+  
