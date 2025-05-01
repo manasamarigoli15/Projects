@@ -1,0 +1,8 @@
+.table-bg thead th {
+    background-color: #74a8dc; /* Dark background color */
+    color: white; /* Text color */
+  }
+
+  .btnwidth {
+    width: 7em;
+  }

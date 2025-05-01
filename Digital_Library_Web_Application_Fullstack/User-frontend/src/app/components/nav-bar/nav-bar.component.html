@@ -1,0 +1,47 @@
+<nav class="navbar navbar-expand-lg navbar-bg sticky-top shadow">
+    <div class="container-fluid">
+        <a class="navbar-brand text-dark" href="/">
+            <img src="../../../assets/img/booklogo.jpg"
+                alt="Logo" width="25" height="24" class="d-inline-block align-text-top" />
+            <b class='ms-2 text-light'>DigitalLibrary</b>
+        </a>
+        <button class="navbar-toggler text-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
+            aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item text-white">
+                    <a class='nav-link text-white fs-5 me-3' routerLink="/">Home</a>
+                </li>
+                <li class="nav-item text-white" *ngIf="loggedIn()">
+                    <a class='nav-link text-white fs-5 me-3' routerLink="/bookrental">MyRentals</a>
+                </li>
+                <!-- <li class="nav-item text-white ">
+                    <a class='nav-link text-white fs-5 ' routerLink="/shortlist">
+                        Cart<span><i class="bi bi-cart2 ms-2"></i></span></a>
+                </li> -->
+            </ul>
+            <span class="navbar-text">
+                <ul class="nav navbar-nav">
+                    <li class="nav-item me-2" *ngIf="loggedIn()">
+                        <a routerLink="/userprofile" class="nav-link text-light">
+                            <img [src]="'https://i.pravatar.cc/300?u=' + user.name" alt="Logo" width="40" height="32"
+                                class="d-inline-block align-text-top me-2 rounded-5" />
+                            {{user.name}}
+                        </a>
+                    </li>
+                    <li *ngIf="!loggedIn()" class="nav-item">
+                        <a routerLink="/signup" class="nav-link me-2 fs-5 text-light">Sign Up</a>
+                    </li>
+                    <li *ngIf="!loggedIn()" class="nav-item">
+                        <a routerLink="/login" class="nav-link me-2 fs-5 text-light">Login</a>
+                    </li>
+                    <li *ngIf="loggedIn()" class="nav-item">
+                        <a class="nav-link btn btn-danger px-2 text-light" (click)="logout()">Logout</a>
+                    </li>
+                </ul>
+            </span>
+        </div>
+    </div>
+</nav>

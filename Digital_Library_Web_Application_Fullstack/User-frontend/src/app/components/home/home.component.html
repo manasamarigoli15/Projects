@@ -1,0 +1,62 @@
+<app-nav-bar></app-nav-bar>
+<div class="container-fluid">
+    <section class=" ">
+        <div class="row mt-3 mx-5 rounded-2 shadow-lg p-2 ps-5 d-flex justify-content-center">
+            <div class="col-12">
+                <div class="input-group">
+                    <div class="col-3">
+                        <label htmlFor="title" class="mb-2"><b>Title</b></label>
+                        <div class="me-3">
+                            <input type="text" class="form-control" placeholder="Search by title"
+                                [(ngModel)]="sf.title" />
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <label htmlFor="title" class="mb-2"><b>Author</b></label>
+                        <div class="me-3">
+                            <input type="text" class="form-control" placeholder="Search by title"
+                                [(ngModel)]="sf.author" />
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <label for="" class="mb-2"><b>Genre</b></label>
+                        <div class="me-3">
+                            <select class="form-select" placeholder="" [(ngModel)]="sf.genre" (change)="searchFilter()">
+                                <option value="All">All</option>
+                                <option value="1">Mystery</option>
+                                <option value="2">Thriller</option>
+                                <option value="3">Horror</option>
+                                <option value="4">Fantasy</option>
+                                <option value="5">ScienceFiction</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <button class="btn btn-primary w-100" style="margin-top: 2em;"
+                            (click)="searchFilter()">Search</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3 mb-5 rounded-2 shadow-lg d-flex justify-content-center">
+            <div class="card w-40 h-50 d-inline-block col-lg-3 col-md-6 col-sm-12 m-3" *ngFor="let b of books">
+                <div class="card-body">
+                    <div>
+                        <img src="{{b.imageUrl}}" class="rounded-start" alt="..." height=300px width=100%>
+                    </div>
+                    <div class="mt-1"><b>Title: {{b.title}}</b></div>
+                    <div class="mt-1">Author: {{b.author}}</div>
+                    <div class="mt-1">Rent per day: ₹{{b.rentPerDay}}</div>
+                    <div *ngIf="(b.numberOfCopiesAvailable>0)" class="mt-1">
+                        <button type="button" class="btn btn-warning buttons" (click)="onRentRequest(b.id)">Rent Book</button>
+                    </div>
+                    <div *ngIf="(b.numberOfCopiesAvailable<=0)">
+                        <div type="button" class="border border-danger text-danger text-center p-1 col-2 rounded-2 buttons">Out of stock</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+</div>
+<app-footer></app-footer>
