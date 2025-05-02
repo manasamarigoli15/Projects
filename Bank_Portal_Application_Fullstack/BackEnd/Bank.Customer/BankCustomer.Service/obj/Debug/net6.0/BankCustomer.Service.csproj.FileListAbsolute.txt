@@ -1,0 +1,11 @@
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\BankCustomer.Service\bin\Debug\net6.0\BankCustomer.Service.deps.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\BankCustomer.Service\bin\Debug\net6.0\BankCustomer.Service.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\BankCustomer.Service\bin\Debug\net6.0\BankCustomer.Service.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\BankCustomer.Service\obj\Debug\net6.0\BankCustomer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\BankCustomer.Service\obj\Debug\net6.0\BankCustomer.Service.AssemblyInfoInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\BankCustomer.Service\obj\Debug\net6.0\BankCustomer.Service.AssemblyInfo.cs
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\BankCustomer.Service\obj\Debug\net6.0\BankCustomer.Service.csproj.CoreCompileInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\BankCustomer.Service\obj\Debug\net6.0\BankCustomer.Service.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\BankCustomer.Service\obj\Debug\net6.0\refint\BankCustomer.Service.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\BankCustomer.Service\obj\Debug\net6.0\BankCustomer.Service.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\BankCustomer.Service\obj\Debug\net6.0\ref\BankCustomer.Service.dll

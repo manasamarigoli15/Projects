@@ -1,0 +1,48 @@
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.deps.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.csproj.AssemblyReference.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.AssemblyInfoInputs.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.AssemblyInfo.cs
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.csproj.CoreCompileInputs.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\refint\Bank.Admin.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\ref\Bank.Admin.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.deps.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.csproj.AssemblyReference.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.AssemblyInfoInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.AssemblyInfo.cs
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.csproj.CoreCompileInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\refint\Bank.Admin.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\ref\Bank.Admin.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.deps.json
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.pdb
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.csproj.AssemblyReference.cache
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.AssemblyInfoInputs.cache
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.AssemblyInfo.cs
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.csproj.CoreCompileInputs.cache
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\refint\Bank.Admin.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.pdb
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\ref\Bank.Admin.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.deps.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\bin\Debug\net6.0\Bank.Admin.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.csproj.AssemblyReference.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.AssemblyInfoInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.AssemblyInfo.cs
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.csproj.CoreCompileInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\refint\Bank.Admin.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\Bank.Admin.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Admin\obj\Debug\net6.0\ref\Bank.Admin.dll

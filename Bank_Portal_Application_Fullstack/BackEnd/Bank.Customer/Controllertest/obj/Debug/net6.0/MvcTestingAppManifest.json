@@ -1,0 +1,7 @@
+{
+  "Api.BankCustomerDetails": "C:\\team-6-bankportal\\new bank\\dummy-bank\\BackEnd\\Bank.Customer\\Api.BankCustomerDetails",
+  "Bank.Customer.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\team-6-bankportal\\new bank\\dummy-bank\\BackEnd\\Bank.Customer\\Bank.Customer.Data",
+  "Bank.Customer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\team-6-bankportal\\new bank\\dummy-bank\\BackEnd\\Bank.Customer\\Bank.Customer",
+  "Bank.Util, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\team-6-bankportal\\new bank\\dummy-bank\\BackEnd\\Bank.Customer\\Bank.Util",
+  "Customer.Exception, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\team-6-bankportal\\new bank\\dummy-bank\\BackEnd\\Bank.Customer\\Customer.Exception"
+}

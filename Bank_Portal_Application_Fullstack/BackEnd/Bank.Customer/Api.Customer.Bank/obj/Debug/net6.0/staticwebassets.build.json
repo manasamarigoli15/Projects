@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iqCiiSFNy63PbAAJZzKqQHfg4hG9R7GrXV+laaeWY2I=",
+  "Source": "Api.Customer.Bank",
+  "BasePath": "_content/Api.Customer.Bank",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

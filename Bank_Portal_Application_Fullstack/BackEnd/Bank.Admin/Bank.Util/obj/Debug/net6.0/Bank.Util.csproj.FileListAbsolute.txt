@@ -1,0 +1,51 @@
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Util.deps.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Util.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Util.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Admin.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Data.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Admin.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Data.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.AssemblyReference.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfoInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfo.cs
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.CoreCompileInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.CopyComplete
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\refint\Bank.Util.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\ref\Bank.Util.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Util.deps.json
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Util.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Util.pdb
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Admin.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Data.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Admin.pdb
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Data.pdb
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.AssemblyReference.cache
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfoInputs.cache
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfo.cs
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.CoreCompileInputs.cache
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.CopyComplete
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\refint\Bank.Util.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.pdb
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\ref\Bank.Util.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Util.deps.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Util.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Util.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Admin.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Data.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Admin.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\bin\Debug\net6.0\Bank.Data.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.AssemblyReference.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfoInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfo.cs
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.CoreCompileInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.CopyComplete
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\refint\Bank.Util.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\Bank.Util.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\Bank.Util\obj\Debug\net6.0\ref\Bank.Util.dll

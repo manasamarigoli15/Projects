@@ -1,0 +1,47 @@
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.deps.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.csproj.AssemblyReference.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.AssemblyInfoInputs.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.AssemblyInfo.cs
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.csproj.CoreCompileInputs.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\refint\Customer.Exception.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\ref\Customer.Exception.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.deps.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.csproj.AssemblyReference.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.AssemblyInfoInputs.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.AssemblyInfo.cs
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.csproj.CoreCompileInputs.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\refint\Customer.Exception.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\ref\Customer.Exception.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.deps.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.csproj.AssemblyReference.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.AssemblyInfoInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.AssemblyInfo.cs
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.csproj.CoreCompileInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\refint\Customer.Exception.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\ref\Customer.Exception.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.deps.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\bin\Debug\net6.0\Customer.Exception.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.AssemblyInfoInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.AssemblyInfo.cs
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.csproj.CoreCompileInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\refint\Customer.Exception.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\Customer.Exception.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Customer.Exception\obj\Debug\net6.0\ref\Customer.Exception.dll

@@ -1,0 +1,45 @@
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Util.deps.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Util.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Util.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Customer.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Customer.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.AssemblyReference.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfoInputs.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfo.cs
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.CoreCompileInputs.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.CopyComplete
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\refint\Bank.Util.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\ref\Bank.Util.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Util.deps.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Util.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Util.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Customer.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Customer.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.AssemblyReference.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfoInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfo.cs
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.CoreCompileInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.CopyComplete
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\refint\Bank.Util.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\ref\Bank.Util.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.AssemblyReference.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfoInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.AssemblyInfo.cs
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.CoreCompileInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Util.deps.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Util.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Util.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Customer.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\bin\Debug\net6.0\Bank.Customer.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.csproj.Up2Date
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\refint\Bank.Util.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\Bank.Util.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Bank.Util\obj\Debug\net6.0\ref\Bank.Util.dll

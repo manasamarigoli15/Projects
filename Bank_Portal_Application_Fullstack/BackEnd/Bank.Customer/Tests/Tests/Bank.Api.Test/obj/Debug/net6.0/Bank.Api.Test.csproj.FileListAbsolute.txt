@@ -1,0 +1,7 @@
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Tests\Bank.Api.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Tests\Bank.Api.Test\obj\Debug\net6.0\Bank.Api.Test.csproj.AssemblyReference.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Tests\Bank.Api.Test\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Tests\Bank.Api.Test\obj\Debug\net6.0\Bank.Api.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Tests\Bank.Api.Test\obj\Debug\net6.0\Bank.Api.Test.AssemblyInfoInputs.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Tests\Bank.Api.Test\obj\Debug\net6.0\Bank.Api.Test.AssemblyInfo.cs
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Tests\Bank.Api.Test\obj\Debug\net6.0\Bank.Api.Test.csproj.CoreCompileInputs.cache

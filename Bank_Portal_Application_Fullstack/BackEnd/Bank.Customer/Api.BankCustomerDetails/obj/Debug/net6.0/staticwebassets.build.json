@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f55RslG4LKZYpNLM7wHbbO4UdiwMdtnRj4E4OK/GPYM=",
+  "Source": "Api.BankCustomerDetails",
+  "BasePath": "_content/Api.BankCustomerDetails",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

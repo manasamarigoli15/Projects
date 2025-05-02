@@ -1,0 +1,6 @@
+{
+  "Api.Bank.Admin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Admin\\Api.Bank.Admin",
+  "Bank.Admin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Admin\\Bank.Admin",
+  "Bank.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Admin\\Bank.Data",
+  "Bank.Util, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Admin\\Bank.Util"
+}

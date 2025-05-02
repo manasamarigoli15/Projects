@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VTXfM6mXv0BRzwFHquD+baOD4/khNSh/RtSTaRbBQguS/hORf6bEASy11GVVPvWC3+yphSFQNufFYdxn3nKqYA==",
+  "success": true,
+  "projectFilePath": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Customer.Exception\\Customer.Exception.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nagaraj.naik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Nagaraj.naik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Nagaraj.naik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

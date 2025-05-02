@@ -1,0 +1,252 @@
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.exe
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.deps.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.runtimeconfig.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Admin.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Data.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Admin.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Data.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.AssemblyReference.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.AssemblyInfoInputs.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.AssemblyInfo.cs
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.CoreCompileInputs.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.CopyComplete
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\refint\BankConsole.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.genruntimeconfig.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\ref\BankConsole.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.exe
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.deps.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.runtimeconfig.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Admin.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Data.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Admin.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Data.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.AssemblyReference.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.AssemblyInfoInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.AssemblyInfo.cs
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.CoreCompileInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.CopyComplete
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\refint\BankConsole.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.genruntimeconfig.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\ref\BankConsole.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.exe
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.deps.json
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.runtimeconfig.json
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.pdb
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Admin.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Data.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Admin.pdb
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Data.pdb
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.AssemblyReference.cache
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.AssemblyInfoInputs.cache
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.AssemblyInfo.cs
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.CoreCompileInputs.cache
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.CopyComplete
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\refint\BankConsole.dll
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.pdb
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.genruntimeconfig.cache
+C:\Users\manasa.marigoli\OneDrive - Happiest Minds Technologies Limited\Desktop\Sky Bank\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\ref\BankConsole.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.exe
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.deps.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.runtimeconfig.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\BankConsole.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Admin.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Data.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Admin.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\bin\Debug\net6.0\Bank.Data.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.AssemblyReference.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.AssemblyInfoInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.AssemblyInfo.cs
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.CoreCompileInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.csproj.CopyComplete
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\refint\BankConsole.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\BankConsole.genruntimeconfig.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Admin\BankConsole\obj\Debug\net6.0\ref\BankConsole.dll

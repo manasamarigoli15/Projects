@@ -1,0 +1,303 @@
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\testhost.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\testhost.exe
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\nunit.engine.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\nunit.engine.api.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\nunit.engine.core.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Test.deps.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Test.runtimeconfig.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Test.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Test.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\nunit.framework.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Customer.Data.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Customer.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Customer.Data.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Customer.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.csproj.AssemblyReference.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.AssemblyInfoInputs.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.AssemblyInfo.cs
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.csproj.CoreCompileInputs.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.csproj.CopyComplete
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\refint\Bank.Test.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.genruntimeconfig.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\ref\Bank.Test.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Customer.Exception.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Customer.Exception.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.csproj.AssemblyReference.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.AssemblyInfoInputs.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.AssemblyInfo.cs
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.csproj.CoreCompileInputs.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\refint\Bank.Test.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\testhost.exe
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\testhost.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\nunit.engine.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\nunit.engine.api.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\nunit.engine.core.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Test.deps.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Test.runtimeconfig.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Test.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Test.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Moq.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\nunit.framework.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Customer.Data.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Customer.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Customer.Exception.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Customer.Data.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Bank.Customer.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\bin\Debug\net6.0\Customer.Exception.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.csproj.CopyComplete
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\Bank.Test.genruntimeconfig.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Bank.Test\obj\Debug\net6.0\ref\Bank.Test.dll

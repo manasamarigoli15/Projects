@@ -1,0 +1,291 @@
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\appsettings.Development.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\appsettings.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.exe
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.deps.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.runtimeconfig.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.Data.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.Data.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.csproj.AssemblyReference.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.AssemblyInfoInputs.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.AssemblyInfo.cs
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.csproj.CoreCompileInputs.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.Api.BankCustomerDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.BankCustomerDetails.props
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.BankCustomerDetails.props
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.BankCustomerDetails.props
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.build.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.development.json
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\scopedcss\bundle\Api.BankCustomerDetails.styles.css
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.csproj.CopyComplete
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\refint\Api.BankCustomerDetails.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.genruntimeconfig.cache
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\ref\Api.BankCustomerDetails.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Customer.Exception.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Customer.Exception.pdb
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\DNET_TRAINING_1\team-6-bankportal\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\appsettings.Development.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\appsettings.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.exe
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.deps.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.runtimeconfig.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.Data.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Util.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Customer.Exception.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.Data.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Util.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Customer.Exception.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.csproj.AssemblyReference.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.AssemblyInfoInputs.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.AssemblyInfo.cs
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.csproj.CoreCompileInputs.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.Api.BankCustomerDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.BankCustomerDetails.props
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.BankCustomerDetails.props
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.BankCustomerDetails.props
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.pack.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.build.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.development.json
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\scopedcss\bundle\Api.BankCustomerDetails.styles.css
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.csproj.CopyComplete
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\refint\Api.BankCustomerDetails.dll
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.pdb
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.genruntimeconfig.cache
+C:\team-6-bankportal\new bank\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\ref\Api.BankCustomerDetails.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.csproj.AssemblyReference.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.AssemblyInfoInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.AssemblyInfo.cs
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.csproj.CoreCompileInputs.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\appsettings.Development.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\appsettings.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.exe
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.deps.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.runtimeconfig.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.Data.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Util.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Customer.Exception.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.Data.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Util.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Customer.Exception.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.Api.BankCustomerDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.BankCustomerDetails.props
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.BankCustomerDetails.props
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.BankCustomerDetails.props
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.build.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.development.json
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\scopedcss\bundle\Api.BankCustomerDetails.styles.css
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.csproj.CopyComplete
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\refint\Api.BankCustomerDetails.dll
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.pdb
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.genruntimeconfig.cache
+C:\PROJECT FINAL\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\ref\Api.BankCustomerDetails.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.csproj.AssemblyReference.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.AssemblyInfoInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.AssemblyInfo.cs
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.csproj.CoreCompileInputs.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\appsettings.Development.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\appsettings.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.exe
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.deps.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.runtimeconfig.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Api.BankCustomerDetails.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.Data.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Util.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Customer.Exception.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.Data.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Customer.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Bank.Util.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\bin\Debug\net6.0\Customer.Exception.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.MvcApplicationPartsAssemblyInfo.cs
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.build.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.development.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.Api.BankCustomerDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.BankCustomerDetails.props
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.BankCustomerDetails.props
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.BankCustomerDetails.props
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\staticwebassets.pack.json
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\scopedcss\bundle\Api.BankCustomerDetails.styles.css
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.Bank.EED1BC4B.Up2Date
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\refint\Api.BankCustomerDetails.dll
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.pdb
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\Api.BankCustomerDetails.genruntimeconfig.cache
+C:\BankPortal\dummy-bank\BackEnd\Bank.Customer\Api.BankCustomerDetails\obj\Debug\net6.0\ref\Api.BankCustomerDetails.dll

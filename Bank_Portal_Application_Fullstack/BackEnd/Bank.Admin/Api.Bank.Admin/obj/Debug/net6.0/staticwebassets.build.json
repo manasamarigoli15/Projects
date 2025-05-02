@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X27FxP2xuU7TgqmCUQL7ti2ZVRB93A9n039Q3oXvW0c=",
+  "Source": "Api.Bank.Admin",
+  "BasePath": "_content/Api.Bank.Admin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

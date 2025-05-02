@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zH6G7jKnb/8nuVc/v/Nsl/yxH8806ewGUpGZIJKlMgc=",
+  "Source": "Api.Bank.Customer",
+  "BasePath": "_content/Api.Bank.Customer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

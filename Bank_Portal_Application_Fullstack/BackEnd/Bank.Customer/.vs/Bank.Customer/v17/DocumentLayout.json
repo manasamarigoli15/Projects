@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747466E8-2CE3-4F39-BF25-D1D24FBE5434}|RepositoryTest\\RepositoryTest.csproj|c:\\bankportal\\dummy-bank\\backend\\bank.customer\\repositorytest\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747466E8-2CE3-4F39-BF25-D1D24FBE5434}|RepositoryTest\\RepositoryTest.csproj|solutionrelative:repositorytest\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747466E8-2CE3-4F39-BF25-D1D24FBE5434}|RepositoryTest\\RepositoryTest.csproj|c:\\bankportal\\dummy-bank\\backend\\bank.customer\\repositorytest\\transactionrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747466E8-2CE3-4F39-BF25-D1D24FBE5434}|RepositoryTest\\RepositoryTest.csproj|solutionrelative:repositorytest\\transactionrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B14DE78-78EC-47D5-833F-2A0970226177}|Bank.Util\\Bank.Util.csproj|c:\\bankportal\\dummy-bank\\backend\\bank.customer\\bank.util\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B14DE78-78EC-47D5-833F-2A0970226177}|Bank.Util\\Bank.Util.csproj|solutionrelative:bank.util\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C743D4E-901B-44E0-A73E-9465DFF5E39E}|Api.BankCustomerDetails\\Api.BankCustomerDetails.csproj|c:\\bankportal\\dummy-bank\\backend\\bank.customer\\api.bankcustomerdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C743D4E-901B-44E0-A73E-9465DFF5E39E}|Api.BankCustomerDetails\\Api.BankCustomerDetails.csproj|solutionrelative:api.bankcustomerdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFB596F-A293-47CC-BA2D-0AAB271D1064}|Bank.Customer\\Bank.Customer.csproj|c:\\bankportal\\dummy-bank\\backend\\bank.customer\\bank.customer\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFB596F-A293-47CC-BA2D-0AAB271D1064}|Bank.Customer\\Bank.Customer.csproj|solutionrelative:bank.customer\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFB596F-A293-47CC-BA2D-0AAB271D1064}|Bank.Customer\\Bank.Customer.csproj|c:\\bankportal\\dummy-bank\\backend\\bank.customer\\bank.customer\\baseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFB596F-A293-47CC-BA2D-0AAB271D1064}|Bank.Customer\\Bank.Customer.csproj|solutionrelative:bank.customer\\baseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFB596F-A293-47CC-BA2D-0AAB271D1064}|Bank.Customer\\Bank.Customer.csproj|c:\\bankportal\\dummy-bank\\backend\\bank.customer\\bank.customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFB596F-A293-47CC-BA2D-0AAB271D1064}|Bank.Customer\\Bank.Customer.csproj|solutionrelative:bank.customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C743D4E-901B-44E0-A73E-9465DFF5E39E}|Api.BankCustomerDetails\\Api.BankCustomerDetails.csproj|c:\\bankportal\\dummy-bank\\backend\\bank.customer\\api.bankcustomerdetails\\models\\loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C743D4E-901B-44E0-A73E-9465DFF5E39E}|Api.BankCustomerDetails\\Api.BankCustomerDetails.csproj|solutionrelative:api.bankcustomerdetails\\models\\loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\RepositoryTest\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryTest\\CustomerRepository.cs",
+              "ToolTip": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\RepositoryTest\\CustomerRepository.cs",
+              "RelativeToolTip": "RepositoryTest\\CustomerRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:04:37.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionRepositoryTest.cs",
+              "DocumentMoniker": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\RepositoryTest\\TransactionRepositoryTest.cs",
+              "RelativeDocumentMoniker": "RepositoryTest\\TransactionRepositoryTest.cs",
+              "ToolTip": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\RepositoryTest\\TransactionRepositoryTest.cs",
+              "RelativeToolTip": "RepositoryTest\\TransactionRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:03:19.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Bank.Util\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "Bank.Util\\TokenGenerator.cs",
+              "ToolTip": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Bank.Util\\TokenGenerator.cs",
+              "RelativeToolTip": "Bank.Util\\TokenGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:35:47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Api.BankCustomerDetails\\Program.cs",
+              "RelativeDocumentMoniker": "Api.BankCustomerDetails\\Program.cs",
+              "ToolTip": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Api.BankCustomerDetails\\Program.cs",
+              "RelativeToolTip": "Api.BankCustomerDetails\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:34:44.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Bank.Customer\\Loan.cs",
+              "RelativeDocumentMoniker": "Bank.Customer\\Loan.cs",
+              "ToolTip": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Bank.Customer\\Loan.cs",
+              "RelativeToolTip": "Bank.Customer\\Loan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:22:24.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseObject.cs",
+              "DocumentMoniker": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Bank.Customer\\BaseObject.cs",
+              "RelativeDocumentMoniker": "Bank.Customer\\BaseObject.cs",
+              "ToolTip": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Bank.Customer\\BaseObject.cs",
+              "RelativeToolTip": "Bank.Customer\\BaseObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:45:25.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Bank.Customer\\Customer.cs",
+              "RelativeDocumentMoniker": "Bank.Customer\\Customer.cs",
+              "ToolTip": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Bank.Customer\\Customer.cs",
+              "RelativeToolTip": "Bank.Customer\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:41:50.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanRequest.cs",
+              "DocumentMoniker": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Api.BankCustomerDetails\\Models\\LoanRequest.cs",
+              "RelativeDocumentMoniker": "Api.BankCustomerDetails\\Models\\LoanRequest.cs",
+              "ToolTip": "C:\\BankPortal\\dummy-bank\\BackEnd\\Bank.Customer\\Api.BankCustomerDetails\\Models\\LoanRequest.cs",
+              "RelativeToolTip": "Api.BankCustomerDetails\\Models\\LoanRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:41:37.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
