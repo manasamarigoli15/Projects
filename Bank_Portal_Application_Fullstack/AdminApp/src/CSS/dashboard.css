@@ -1,0 +1,29 @@
+.body
+{
+    overflow: hidden;
+}
+.head
+{
+    margin-left: 20px;
+}
+.card1
+{
+  background-color: aquamarine; 
+}
+/*h4{
+  animation: animate 0.9s infinite;
+}
+
+@keyframes animate {
+  0% {
+    transform: translateX(0px);
+  }
+
+  50% {
+    transform: translateX(-20px);
+  }
+
+  100% {
+    transform: translateX(0px);
+  }
+}*/

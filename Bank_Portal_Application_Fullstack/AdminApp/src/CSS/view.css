@@ -1,0 +1,14 @@
+.Cont
+{
+    margin-left: 30px;
+    height: 100%;
+    overflow: hidden;
+}
+.Card
+{
+    width:200px;
+    margin-left: 50px;
+}
+body{
+    overflow-x:hidden ;
+}
