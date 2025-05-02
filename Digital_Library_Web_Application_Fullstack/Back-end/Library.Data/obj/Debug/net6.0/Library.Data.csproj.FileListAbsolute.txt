@@ -1,0 +1,85 @@
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.deps.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.runtimeconfig.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.AssemblyReference.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfoInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfo.cs
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\refint\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.genruntimeconfig.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\ref\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.deps.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.runtimeconfig.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.AssemblyReference.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfoInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfo.cs
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.CopyComplete
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\refint\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.genruntimeconfig.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\ref\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.deps.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.runtimeconfig.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.AssemblyReference.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfoInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfo.cs
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.CopyComplete
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\refint\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.genruntimeconfig.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\ref\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.deps.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.runtimeconfig.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.AssemblyReference.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfoInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfo.cs
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.CopyComplete
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\refint\Library.Data.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.genruntimeconfig.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\ref\Library.Data.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.deps.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.runtimeconfig.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Data.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Exceptions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\bin\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.AssemblyReference.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfoInputs.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.AssemblyInfo.cs
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library..D93EEA8C.Up2Date
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\refint\Library.Data.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library.Data.genruntimeconfig.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\ref\Library.Data.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Data\obj\Debug\net6.0\Library..D93EEA8C.Up2Date

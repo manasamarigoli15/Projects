@@ -1,0 +1,58 @@
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.deps.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.AssemblyInfoInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.AssemblyInfo.cs
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\refint\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\ref\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.deps.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.csproj.AssemblyReference.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.AssemblyInfoInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.AssemblyInfo.cs
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\refint\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\DigitalLibraryGit\digitallibrary\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\ref\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.deps.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.csproj.AssemblyReference.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.AssemblyInfoInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.AssemblyInfo.cs
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\refint\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C#\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\ref\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.deps.json
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.csproj.AssemblyReference.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.AssemblyInfoInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.AssemblyInfo.cs
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\refint\Library.Exceptions.dll
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\New C# 2\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\ref\Library.Exceptions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.deps.json
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Exceptions\bin\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.AssemblyInfo.cs
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\refint\Library.Exceptions.dll
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\Library.Exceptions.pdb
+C:\Users\Namitha.bm\OneDrive - Happiest Minds Technologies Limited\Desktop\Digital_Library\Back-end\DigitalLibrary\Library.Exceptions\obj\Debug\net6.0\ref\Library.Exceptions.dll

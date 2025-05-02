@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F7WU5HQMC80nfLPrtBC1yQQK/UVWtFN0vEgWyrA6SYw=",
+  "Source": "Api.Library.Books",
+  "BasePath": "_content/Api.Library.Books",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

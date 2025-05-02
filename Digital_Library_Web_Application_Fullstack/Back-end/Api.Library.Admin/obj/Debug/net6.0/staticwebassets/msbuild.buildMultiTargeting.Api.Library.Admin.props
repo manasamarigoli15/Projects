@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api.Library.Admin.props" />
+</Project>

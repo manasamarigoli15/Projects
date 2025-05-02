@@ -1,0 +1,406 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Api.Library.Admin.Test\\Api.Library.Admin.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Api.Library.Admin.Test\\Api.Library.Admin.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Api.Library.Admin.Test\\Api.Library.Admin.Test.csproj",
+        "projectName": "Api.Library.Admin.Test",
+        "projectPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Api.Library.Admin.Test\\Api.Library.Admin.Test.csproj",
+        "packagesPath": "C:\\Users\\Namitha.bm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Api.Library.Admin.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Namitha.bm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Api.Library.Admin\\Api.Library.Admin.csproj": {
+                "projectPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Api.Library.Admin\\Api.Library.Admin.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Api.Library.Admin\\Api.Library.Admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Api.Library.Admin\\Api.Library.Admin.csproj",
+        "projectName": "Api.Library.Admin",
+        "projectPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Api.Library.Admin\\Api.Library.Admin.csproj",
+        "packagesPath": "C:\\Users\\Namitha.bm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Api.Library.Admin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Namitha.bm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Business\\Library.Business.csproj": {
+                "projectPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Business\\Library.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Business\\Library.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Business\\Library.Business.csproj",
+        "projectName": "Library.Business",
+        "projectPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Business\\Library.Business.csproj",
+        "packagesPath": "C:\\Users\\Namitha.bm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Namitha.bm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Data\\Library.Data.csproj": {
+                "projectPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Data\\Library.Data.csproj"
+              },
+              "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Exceptions\\Library.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Exceptions\\Library.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Data\\Library.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Data\\Library.Data.csproj",
+        "projectName": "Library.Data",
+        "projectPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Data\\Library.Data.csproj",
+        "packagesPath": "C:\\Users\\Namitha.bm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Namitha.bm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Exceptions\\Library.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Exceptions\\Library.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Exceptions\\Library.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Exceptions\\Library.Exceptions.csproj",
+        "projectName": "Library.Exceptions",
+        "projectPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Exceptions\\Library.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\Namitha.bm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Namitha.bm\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\DigitalLibrary\\Back-end\\DigitalLibrary\\Library.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Namitha.bm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
