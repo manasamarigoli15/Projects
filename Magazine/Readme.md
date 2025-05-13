@@ -38,7 +38,7 @@ This is the 138th issue of **Heuler**, the official student magazine of the Univ
 ---
 
 ## 🔗 View the Magazine
-📄 Click here to download the full magazine (PDF)
+clone the repository and open the file locally
 Note: GitHub does not preview PDFs in-browser. Click the link to download or open it manually.
 
 ---
