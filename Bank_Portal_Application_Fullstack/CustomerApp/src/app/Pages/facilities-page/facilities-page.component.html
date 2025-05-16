@@ -1,0 +1,76 @@
+<div class="container-fluid g-0">
+    <app-top-navbar></app-top-navbar>
+</div>
+<div class="container-fluid g-0">
+<app-home-mainnavbar></app-home-mainnavbar>
+</div>
+<div class="container  mt-3">
+    <div class="row text-center fac mt-2 mb-2">
+        <h2 style="color: navy;">Facilities Available</h2>
+    </div>
+    <div class="row mt-3 mb-3">
+        <h6>*Please check the facility that you want to avail.</h6>
+    </div>
+        <div class="row">
+            <div class="col-4 d-flex align-self-stretch">
+                <div class="card shadow">
+                    <div class="row">
+                        <div class="col-12">
+                            <img src="https://tse2.mm.bing.net/th/id/OIP.OukuzpXrLw3gu9vVCKrPWAHaE8?pid=ImgDet&w=600&h=400&rs=1" class="img-fluid rounded-top">
+                        </div>
+                        <div class="col-12 d-flex justify-content-center my-3">
+                            <div class="form-check mt-3">
+                                <input class="form-check-input fs-5" type="checkbox" value="1" name="debitCard" id="debitCard" (change)="selected_checkBox($event)">
+                                <label class="form-check-label fs-5" for="debitCard">
+                                    Debit Card
+                                </label>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4  d-flex align-self-stretch">
+                <div class="card shadow">
+                    <div class="row">
+                        <div class="col-12">
+                            <img src="https://tse1.mm.bing.net/th/id/OIP.xYV_Kbxfw-Xvue5N59Tu3gHaFS?pid=ImgDet&w=700&h=500&rs=1" class="img-fluid rounded-top">
+                        </div>
+                        <div class="col-12 d-flex justify-content-center my-3">
+                            <div class="form-check ">
+                                <input class="form-check-input fs-5" type="checkbox" value="2" name="creditCard" id="creditCard" (change)="selected_checkBox($event)">
+                                <label class="form-check-label fs-5" for="creditCard">
+                                    Credit Card
+                                </label>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4  d-flex align-self-stretch">
+                <div class="card shadow">
+                    <div class="row">
+                        <div class="col-12">
+                            <img src="https://i.pinimg.com/originals/e9/31/e3/e931e38488bba34967aa572359b0a0a7.jpg" class="img-fluid rounded-top">
+                        </div>
+                        <div class="col-12 d-flex justify-content-center my-3">
+                            <div class="form-check mt-3">
+                                <input class="form-check-input fs-5" type="checkbox" value="3" name="chequeBook" id="chequeBook" (change)="selected_checkBox($event)">
+                                <label class="form-check-label fs-5" for="chequeBook">
+                                    Cheque book
+                                </label>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="row mt-4">
+            <div class="d-flex justify-content-around">
+                <button type="button"
+                class="btn btn-danger btn-block btn-lg gradient-custom-4 text-body col-md-2" routerLink="/dashboard">Cancel</button>
+                <button type="button"
+                class="btn btn-success btn-block btn-lg gradient-custom-4 text-body col-md-2" (click)="onApply()">Apply</button>
+            </div>
+        </div>
+</div>

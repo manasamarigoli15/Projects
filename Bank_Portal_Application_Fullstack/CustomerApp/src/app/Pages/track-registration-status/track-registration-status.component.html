@@ -1,0 +1,15 @@
+<app-top-navbar></app-top-navbar>
+<div class="container">
+    <div class="card mt-4">
+        <div class="card-header">
+            <div class="row">
+                <h2 style="color: navy;">Track Status</h2>
+            </div>
+        </div>
+        <div class="card-body">
+            <h4>Registration number:</h4>
+            <input type="text" class="form-control" [(ngModel)]="regNo"/>
+            <button type="button" class="btn btn-warning mt-2" (click)="onTrack(regNo)">Track Status</button>
+        </div>
+    </div>
+</div>

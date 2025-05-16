@@ -1,0 +1,55 @@
+app-dashboard-side-navbar{
+    position: absolute;
+    left: 0rem;
+    width: 210px;
+    height: calc(90vh - 4rem);
+    box-shadow: 0px 0px 10px rgb(16, 84, 186);
+    background-color: rgb(217, 233, 251);
+   }
+.background{
+    background:url('https://tse3.mm.bing.net/th/id/OIP.ZWMYtQ2F8MwRNlrCJmjv4gHaEo?w=254&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7') ;
+    height: 320px;
+    width: 270px;
+}
+.background2{
+    background:url('https://www.virginstartup.org/sites/startup.virgin.com/files/tips_on_getting_a_bank_loan.jpg') ;
+    height: 320px;
+    width: 270px;
+}
+.background3{
+    background:url('https://tse4.mm.bing.net/th/id/OIP.jgKP2r5_oNP4t6gChyAAzgAAAA?w=168&h=176&c=7&r=0&o=5&dpr=1.5&pid=1.7') ;
+    height: 320px;
+    width: 270px;
+}
+.background4{
+    background: url('https://i.pinimg.com/474x/ff/f7/c1/fff7c1c878986d85ce302bfc900b0c33.jpg');
+    height: 320px;
+    width: 270px;
+}
+.card2{
+    width: 270px;
+}
+.card1
+{
+    height: 530px;
+    width: 250px;
+}
+.text1{
+    color: rgb(159, 0, 0);
+}
+a{
+    text-decoration: none;
+    color: rgb(159, 0, 0);
+    padding: 20%;
+}
+.box:hover{
+    background-color: #AEACAC;
+    border-radius: 5%;
+}
+.box{
+    text-align: center;
+}
+.btn{
+    border-color: rgb(159, 0, 0);
+    padding-right: 90%;
+}

@@ -1,0 +1,11 @@
+.line1{
+    border-right: 1px solid;
+    height: 200px;
+
+}
+.icon{
+    color:  rgb(159, 0, 0);;
+}
+.item:hover{
+    color:  rgb(159, 0, 0);;
+}

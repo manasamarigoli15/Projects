@@ -1,0 +1,280 @@
+<app-top-navbar></app-top-navbar>
+<section class="vh-100 mt-3">
+    <div class="mask d-flex align-items-center h-100 gradient-custom-3">
+      <div class="container h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+          <div class="col-12">
+            <div class="card col-sm-12 shadow" style="border-radius: 15px;">
+              <div class="card-body pt-4 ps-5 pe-5 col-sm-12">
+
+                <div class="row">
+                    <div class="col-12 rounded shadow gradient text-center" style="background-color: rgb(234, 168, 168);">
+                        <h3 class="text-uppercase p-2">Create an account</h3>
+                    </div>
+                </div>
+
+                <form #userform="ngForm">
+                  <div class="row my-4">
+                    <div class="col-12 text-primary">
+                        <h5 style="color: navy;">Personal Particulars</h5>
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-md-6">
+                        <div class="form-group mb-3">
+                            <label for="firstname">First Name<span class="text-danger">*</span></label>
+                            <input ngModel required minlength="3" pattern="[a-zA-Z\s]+" type="text" class="form-control" id="firstname" name="firstname"
+                            #firstname="ngModel"
+                            [class.is-invalid]="firstname.invalid && firstname.touched"
+                            [class.is-valid]="firstname.valid">
+                            <p *ngIf="firstname.touched && firstname.invalid" class="text-danger">
+                              <small *ngIf="firstname.errors?.['required']">First Name is Required</small>
+                              <small *ngIf="firstname.errors?.['minlength']">First Name should have minimum 3 characters</small>
+                              <small *ngIf="firstname.errors?.['pattern']">Invalid input</small>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-md-6">
+                        <div class="form-group mb-3">
+                            <label for="lastname">Last Name<span class="text-danger">*</span></label>
+                            <input ngModel required minlength="3" pattern="[a-zA-Z\s]+" type="text" class="form-control" id="lastname" name="lastname"
+                            #lastname="ngModel"
+                            [class.is-invalid]="lastname.invalid && lastname.touched"
+                            [class.is-valid]="lastname.valid">
+                            <p *ngIf="lastname.touched && lastname.invalid" class="text-danger">
+                              <small *ngIf="lastname.errors?.['required']">Last Name is Required</small>
+                              <small *ngIf="lastname.errors?.['minlength']">Last Name should have minimum 3 characters</small>
+                              <small *ngIf="lastname.errors?.['pattern']">Invalid input</small>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-md-6">
+                        <div class="form-group mb-3">
+                            <label for="address">Residential Address<span class="text-danger">*</span></label>
+                            <textarea ngModel required minlength="10" maxlength="50" pattern="[a-zA-Z0-9\s]+" type="text" class="form-control" id="address" name="address"
+                            #address="ngModel"
+                            [class.is-invalid]="address.invalid && address.touched"
+                            [class.is-valid]="address.valid"></textarea>
+                            <p *ngIf="address.touched && address.invalid" class="text-danger">
+                              <small *ngIf="address.errors?.['required']">Residential Address is Required</small>
+                              <small *ngIf="address.errors?.['minlength']">Address should have minimum 3 characters</small>
+                              <small *ngIf="address.errors?.['pattern']">Invalid input</small>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-md-6">
+                        <div class="form-group mb-3">
+                            <label for="useremail">Email Address<span class="text-danger">*</span></label>
+                            <input ngModel required pattern="^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$" type="text" class="form-control" id="useremail" name="useremail"
+                            #useremail="ngModel"
+                            [class.is-invalid]="useremail.invalid && useremail.touched"
+                            [class.is-valid]="useremail.valid">
+                            <p *ngIf="useremail.touched && useremail.invalid" class="text-danger">
+                              <small *ngIf="useremail.errors?.['required']">Email is Required</small>
+                              <small *ngIf="useremail.errors?.['pattern']">Invalid input</small>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-md-6">
+                        <div class="form-group mb-3">
+                            <label for="userphone">Phone Number<span class="text-danger">*</span></label>
+                            <input ngModel required pattern="^[789]\d{9}$" type="text" class="form-control" id="userphone" name="userphone"
+                            #userphone="ngModel"
+                            [class.is-invalid]="userphone.invalid && userphone.touched"
+                            [class.is-valid]="userphone.valid">
+                            <p *ngIf="userphone.touched && userphone.invalid" class="text-danger">
+                              <small *ngIf="userphone.errors?.['required']">Phone Number is Required</small>
+                              <small *ngIf="userphone.errors?.['pattern']">Invalid input</small>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-md-6">
+                        <div class="form-group mb-3">
+                            <label for="dob">Date of Birth<span class="text-danger">*</span></label>
+                            <input ngModel required type="date" class="form-control" id="dob" name="dob"
+                            #dob="ngModel"
+                            [class.is-invalid]="dob.invalid && dob.touched"
+                            [class.is-valid]="dob.valid">
+                            <p *ngIf="dob.touched && dob.invalid" class="text-danger">
+                              <small *ngIf="dob.errors?.['required']">Date of Birth is Required</small>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-6 col-md-6">
+                      <div class="form-group mb-3">
+                          <label for="occupation">Occupation<span class="text-danger">*</span></label>
+                          <input ngModel required minlength="3" pattern="[a-zA-Z\s]+" type="text" class="form-control" id="occupation" name="occupation"
+                          #occupation="ngModel"
+                          [class.is-invalid]="occupation.invalid && occupation.touched"
+                          [class.is-valid]="occupation.valid">
+                          <p *ngIf="occupation.touched && occupation.invalid" class="text-danger">
+                            <small *ngIf="occupation.errors?.['required']">Occupation is Required</small>
+                            <small *ngIf="occupation.errors?.['minlength']">Occupation should have minimum 3 characters</small>
+                            <small *ngIf="occupation.errors?.['pattern']">Invalid input</small>
+                          </p>
+                      </div>
+                  </div>
+
+                    <div class="col-12 col-sm-6 col-md-6">
+                        <div class="form-group mb-3">
+                            <label>Gender<span class="text-danger">*</span></label><br>
+                            <div class="row mt-2">
+                                <div class="col-4">
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" name="gender" value="female" 
+                                        [(ngModel)]="gender" required #gendervar="ngModel">
+                                        <label class="form-check-label" for="female">
+                                           Female
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col-4">
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" name="gender" value="male" 
+                                        [(ngModel)]="gender" required #gendervar="ngModel">
+                                        <label class="form-check-label" for="male">
+                                          Male
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                            <p class="text-danger">
+                                <small *ngIf="gendervar.touched && gendervar.invalid">Please select the gender</small>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-6">
+                      <label for="formFile">Upload Your Image<span class="text-danger">*</span></label>
+                      <input class="form-control" type="file" name="profileImg" id="fileprofile"  ngModel>
+                    </div>
+                  </div>
+                    
+                  <!--OTHER DETAILS-->
+                  <div class="row my-3">
+                    <div class="col-12 text-primary">
+                        <h5 style="color: navy;">Other Details</h5>
+                    </div>
+
+                  <div class="row my-3">
+                    <div class="col-12 col-sm-6 col-md-6">
+                        <div class="form-group mb-3">
+                            <label for="aadhar">Aadhar Number<span class="text-danger">*</span></label>
+                            <input ngModel required pattern="^\d{12}$" type="text" class="form-control" id="aadhar" name="aadhar"
+                            #aadhar="ngModel"
+                            [class.is-invalid]="aadhar.invalid && aadhar.touched"
+                            [class.is-valid]="aadhar.valid">
+                            <p *ngIf="aadhar.touched && aadhar.invalid" class="text-danger">
+                              <small *ngIf="aadhar.errors?.['required']">Aadhar Number is Required</small>
+                              <small *ngIf="aadhar.errors?.['pattern']">Invalid input</small>
+                            </p>
+                          </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-6">
+                      <label for="formFile">Upload Aadhar Card<span class="text-danger">*</span></label>
+                      <input class="form-control" type="file" name="adharImg" id="fileAadhar"  ngModel>
+                    </div>
+                  </div>
+                  <div class="row my-3">
+                    <div class="col-12 col-sm-6 col-md-6">
+                      <div class="form-group mb-3">
+                          <label for="pan">Pan Number<span class="text-danger">*</span></label>
+                          <input ngModel pattern="^[A-Z]{5}\d{4}[A-Z]{1}$" type="text" class="form-control" id="pan" name="pan"
+                          #pan="ngModel"
+                          [class.is-invalid]="pan.invalid">
+                          <p *ngIf="pan.invalid" class="text-danger">
+                            <!-- <small *ngIf="pan.errors?.['required']">Pan Number is Required</small> -->
+                            <small *ngIf="pan.errors?.['pattern']">Invalid input</small>
+                          </p>
+                      </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-6">
+                      <label for="formFile">Upload Pan Card<span class="text-danger">*</span></label>
+                      <input  class="form-control" type="file" name="panImg" id="filePanCard"  ngModel>
+                    </div>
+                  </div>
+
+                  <div class="row my-3">
+                    <div class="col-12 col-sm-6 col-md-6">
+                        <div class="form-group mb-3">
+                            <label for="account">Account Type<span class="text-danger">*</span></label>
+                            <select class="form-select" required name="account" id="account" [(ngModel)]="account" #acc="ngModel">
+                                <!-- <option value="-1" class="text-muted">Select Account Type</option> -->
+                                <option value="1">Savings Account</option>
+                                <option value="2">Salary Account</option>
+                                <option value="3">Loan Account</option>
+                            </select>
+                            <p class="text-danger">
+                                <small *ngIf="acc.touched && acc.invalid">Please select account type</small>
+                            </p> 
+                        </div>
+                    </div>
+                  </div>
+
+                  <!--FOOTER-->
+                  <div class="row my-3">
+                    <div class="col-12 text-primary">
+                        <h5 style="color: navy;">DECLARATION<span class="text-danger">*</span></h5>
+                    </div>
+                    <div class="col-12">
+                        <div class="form-check mb-3">
+                            <input ngModel required class="form-check-input me-2" type="checkbox" id="checked" name="checked"
+                                #checked="ngModel" [class.is-invalid]="checked.invalid && checked.touched"/>
+                            <label class="form-check-label" for="checked">
+                                <span class="text-dark">I have read, understood and hereby agree to
+                                <a href="#!" class="text-body"><u class="text-primary">terms and conditions.</u></a>
+                                I understand that any changes in terms and conditions applicable to this relationship would be made
+                                available to me on request at any IOB branches.</span>
+                            </label>
+                        </div>
+                        <p *ngIf="checked.touched" class="text-danger">
+                            <small *ngIf="checked.errors?.['required']">Action is Required</small>
+                        </p>
+                    </div>
+                  </div>
+
+                  <div class="d-flex justify-content-center">
+                    <button type="button" [disabled]="userform.invalid"
+                    class="btn btn-success btn-block btn-lg gradient-custom-4 text-body" (click)="onRegister(userform)">Register</button>
+                  </div>
+                  <p class="text-center text-muted mt-2 mb-0">Have already an account? <a routerLink="/login"
+                  class="text-body"><u class="text-primary">Login here</u></a></p>
+                    
+                    <!-- <div class="form-group mb-3">
+                        <label for="userpassword">Password</label>
+                        <input ngModel required pattern="(?=^.{8,}$)(?=.*\d)(?=.*[!@#$%^&*]+)(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$"
+                        type="password" class="form-control" id="userpassword" name="userpassword"
+                        #userpassword="ngModel"
+                        [class.is-invalid]="userpassword.invalid && userpassword.touched"
+                        [class.is-valid]="userpassword.valid">
+                        <p *ngIf="userpassword.touched && userpassword.invalid" class="text-danger">
+                          <small *ngIf="userpassword.errors?.['required']">Password is Required</small>
+                          <small *ngIf="userpassword.errors?.['pattern']">Weak Password</small>
+                        </p>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="userpassword1">Repeat Password</label>
+                        <input ngModel required type="text" class="form-control" id="userpassword1" name="userpassword1"
+                        #userpassword1="ngModel">
+                        <p *ngIf="userpassword1.touched" class="text-danger">
+                          <small *ngIf="userpassword1.errors?.['required']">Password is Required</small>
+                        </p>
+                          <p *ngIf="userpassword1.dirty" class="text-danger">
+                             <small *ngIf="userpassword1.errors?.['required']">Password is Required</small> 
+                            <small *ngIf="userpassword1.value!=userpassword.value">Wrong Password</small>
+                          </p>
+                    </div> -->
+
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

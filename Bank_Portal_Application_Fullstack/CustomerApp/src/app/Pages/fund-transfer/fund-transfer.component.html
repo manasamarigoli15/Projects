@@ -1,0 +1,133 @@
+<div class="container-fluid g-0">
+  <app-top-navbar></app-top-navbar>
+</div>
+<div class="container-fluid g-0">
+<app-home-mainnavbar></app-home-mainnavbar>
+</div>
+    <div class="mask d-flex align-items-center h-100 gradient-custom-3 mt-3">
+      <div class="container h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+          <div class="col-12">
+            <div class="card col-sm-12 shadow" style="border-radius: 15px;">
+              <div class="card-body pt-4 ps-5 pe-5 col-sm-12">
+                <div class="row">
+                <div class="col-12 rounded shadow gradient text-center" style="background-color: rgb(234, 168, 168);">
+                    <h3 class="text-uppercase p-2">Fund Transfer</h3>
+                </div>
+            </div>
+            <form #userform="ngForm">
+              <div class="row my-3 pt-2">
+                <div class="col-12 text-primary" >
+                    <h5 style="color:navy">Transaction details</h5>
+                </div>
+
+                  <div class="col-12 col-sm-6 col-md-4">
+                    <div class="form-group mb-3">
+                      <label for="transferType">Account holder name</label>
+                      <div class="input-group">
+                        <input type="text" class="form-control text-center" [(ngModel)]="user.firstName" name="firstname" required disabled>
+                        <input type="text" class="form-control" [(ngModel)]="user.lastName" name="lastname" required disabled>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-12 col-sm-6 col-md-4">
+                    <div class="form-group mb-3">
+                      <label for="transferType">Account Number</label>
+                      <input type="text" class="form-control" [(ngModel)]="user.accountNumber" name="accountnumber" required disabled="">
+                    </div>
+                  </div>
+                </div>
+                
+              <div class="row my-3 pt-2">
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="form-group mb-3">
+                        <label for="transferType">Type of Transfer</label>
+                        <select class="form-select" required name="transferType" id="transferType" #type="ngModel" 
+                          [(ngModel)]="transferType">
+                          <!-- (selectionChange)="changeState()" -->
+                            <!-- <option value="-1" class="text-muted">Select Account Type</option> -->
+                            <option value="1">To Same Bank</option>
+                            <option value="2">To Other Bank</option>
+                            <!--<option value="3">IMPS</option>-->
+                        </select>
+                        <p class="text-danger">
+                            <small *ngIf="type.touched && type.invalid">Please select transfer type</small>
+                        </p>
+                    </div>
+                </div>
+              </div>
+
+
+              <div class="row my-3 pt-2">
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="form-group mb-3">
+                        <label for="transactionAmount">Amount to Transfer</label>
+                        <input ngModel required pattern="^[1-9]\d{0,7}$" type="text" class="form-control" id="transactionAmount" name="transactionAmount"
+                        #amount="ngModel" [(ngModel)] = "temp.transactionAmount"
+                        [class.is-invalid]="amount.invalid && amount.touched"
+                        [class.is-valid]="amount.valid">
+                        <p *ngIf="amount.touched && amount.invalid" class="text-danger">
+                          <small *ngIf="amount.errors?.['required']">Loan Amount is Required</small>
+                          <small *ngIf="amount.errors?.['pattern']">Invalid input</small>
+                        </p>
+                    </div>
+                  </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                  <div class="form-group mb-3">
+                      <label for="payeeAccountNo">Benificiary Account Number</label>
+                      <input ngModel required pattern="^[0-9]\d{11}$" type="text" class="form-control" id="payeeAccountNo" name="payerAccountNo"
+                      #payeeacc="ngModel" [(ngModel)] = "temp.payeeAccountNo"
+                      [class.is-invalid]="payeeacc.invalid && payeeacc.touched"
+                      [class.is-valid]="payeeacc.valid">
+                      <p *ngIf="payeeacc.touched && payeeacc.invalid" class="text-danger">
+                        <small *ngIf="payeeacc.errors?.['required']">Account Number is Required</small>
+                        <small *ngIf="payeeacc.errors?.['pattern']">Invalid input</small>
+                      </p>
+                  </div>
+                </div>
+                  <div class="col-12 col-sm-6 col-md-4">
+                      <div class="form-group mb-3">
+                          <label for="ifsc">IFSC Code</label>
+                          <input ngModel required pattern="^[0-9]\d{10}$" type="text" class="form-control" id="ifsc" name="ifsc"
+                          #ifscNo="ngModel" [(ngModel)]="ifsc" [disabled]="type.value !== '2'"
+                          [class.is-invalid]="ifscNo.invalid && ifscNo.touched"
+                          [class.is-valid]="ifscNo.valid">
+                          <p *ngIf="ifscNo.touched && ifscNo.invalid" class="text-danger">
+                            <small *ngIf="ifscNo.errors?.['required']">IFSC Code is Required</small>
+                            <small *ngIf="ifscNo.errors?.['pattern']">Invalid input</small>
+                          </p>
+                      </div>
+                  </div>
+              </div>
+              <!--FOOTER-->
+              <div class="row my-3">
+                <div class="col-12 text-primary">
+                    <h5  style="color:navy">DECLARATION</h5>
+                </div>
+                <div class="col-12">
+                    <div class="form-check mb-3">
+                        <input ngModel required class="form-check-input me-2" type="checkbox" id="checked" name="checked"
+                            #checked="ngModel" [class.is-invalid]="checked.invalid && checked.touched"/>
+                        <label class="form-check-label" for="checked">
+                            <span class="text-dark">I agree to the </span>
+                            <a href="#!" class="text-body"><u class="text-primary">terms and conditions.</u></a>
+                        </label>
+                    </div>
+                    <p *ngIf="checked.touched" class="text-danger">
+                        <small *ngIf="checked.errors?.['required']">Action is Required</small>
+                    </p>
+                </div>
+              </div>
+              <div class="d-flex justify-content-around">
+                <button type="button"
+                class="btn btn-danger btn-block btn-lg gradient-custom-4 text-body col-md-2 " routerLink="/dashboard" (click)="onCancel()">Cancel</button>
+                <button type="button" [disabled]="userform.invalid"
+                class="btn btn-success btn-block btn-lg gradient-custom-4 text-body col-md-2 " (click)="onApply(userform)">Transfer</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

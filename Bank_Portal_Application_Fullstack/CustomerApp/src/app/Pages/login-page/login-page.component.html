@@ -1,0 +1,100 @@
+<app-top-navbar></app-top-navbar>
+<section class="vh-100 bg-image login-background">
+    <div class="container gradient-custom-3">
+        <div class="row d-flex justify-content-center vh-100">
+            <div class=" d-block col-sm-12 col-md-4 col-lg-6 col-xl-6">
+                <div class="mt-2 pb-2 text-center">
+                    <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mg2P_PuffeiJh3cEirQJTdiVdsMp7tav0mvC64T99nGL0Gx_bRZg&usqp=CAU"
+                        width="50" height="50" /> -->
+                    <span class="ms-2 fs-3 text-light"><h2>Welcome to Sky Bank</h2></span>
+                </div>
+                <div class="card c-background  mt-3  text-center">
+                    <div class="card-header text-center text-white">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-person-circle text-secondary" viewBox="0 0 16 16">
+                            <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                            <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+                          </svg>
+                        <h3 class="text-dark pt-2">SIGN IN</h3>
+                    </div>
+                    <div class="card-body m-2">
+                        <div *ngIf="errorMessage">
+                            <div class="row">
+                                <div class="col-12 bg-danger bg-opacity-25 rounded border border-danger py-2 mb-4 w-100">
+                                    <span>Login failed!</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div *ngIf="successMessage">
+                            <div class="row">
+                                <div class="col-12 bg-success bg-opacity-25 rounded border border-success py-2 mb-4">
+                                    <span>Login successful!</span>
+                                </div>
+                            </div>
+                        </div>
+                        <form #createaccountform="ngForm">
+                            <div class="form-outline mb-4">
+                                <div class="form-group">
+                                    <!-- <label for="txtEmail" class="fs-4"><b>Email</b></label> -->
+                                    <div class="input-group mb-3">
+                                        <div class="input-group-prepend">
+                                            <span class="input-group-text" id="basic-addon1">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="24" fill="currentColor" class="bi bi-envelope-fill text-dark" viewBox="0 0 16 16">
+                                                    <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
+                                                  </svg>
+                                            </span>
+                                        </div>
+                                        <input type="email" placeholder="Enter your email" class="form-control" ngModel
+                                            required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"
+                                            #t_email="ngModel" name="email" id="email" [(ngModel)]="email" [class.is-valid]="t_email.valid"
+                                            [class.is-invalid]="t_email.invalid && t_email.touched"
+                                            aria-describedby="basic-addon1" />
+
+                                    </div>
+                                    <div>
+                                        <p class="mx-4" *ngIf="t_email.invalid && t_email.touched" class="text-danger">
+                                            <small *ngIf="t_email.errors?.['pattern']">Invalid Email</small>
+                                            <small *ngIf="t_email.errors?.['required']">Email Is Required</small>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-outline mb-4">
+                                <div class="form-group">
+                                    <!-- <label for="txtPassword" class="fs-4"><b>Password </b></label> -->
+                                    <div class="input-group mb-3">
+                                        <div class="input-group-prepend">
+                                            <span class="input-group-text" id="basic-addon1">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="24" fill="currentColor" class="bi bi-eye-fill" viewBox="0 0 16 16">
+                                                    <path d="M10.5 8a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0z"/>
+                                                    <path d="M0 8s3-5.5 8-5.5S16 8 16 8s-3 5.5-8 5.5S0 8 0 8zm8 3.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7z"/>
+                                                  </svg>
+                                            </span>
+                                        </div>
+                                        <input type="password" placeholder="Enter password" class="form-control" ngModel
+                                            required #t_password="ngModel" id="password" name="password"  [(ngModel)]="password"
+                                            [class.is-valid]="t_password.valid"
+                                            [class.is-invalid]="t_password.invalid && t_password.touched"
+                                            aria-describedby="basic-addon1" />
+
+                                    </div>
+                                    <div>
+                                        <!--<p *ngIf="t_password.invalid && t_password.touched" class="text-danger">
+                                            <small *ngIf="t_password.errors?.['required']">Password is required</small>
+                                        </p>-->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <button class="btn bg-dark w-100" [disabled]="createaccountform.invalid" (click)="onLoginClick()"
+                                    type="submit" btn btn-success btn-block btn-lg gradient-custom-4 text-body>
+                                   <b class="text-white">Submit</b> 
+                                </button>
+                            </div>
+                           
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

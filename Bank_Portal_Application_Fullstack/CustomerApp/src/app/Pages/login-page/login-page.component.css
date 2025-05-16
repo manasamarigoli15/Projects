@@ -1,0 +1,31 @@
+.login-background
+
+{
+
+    background-image: url("https://th.bing.com/th/id/R.980659149375f537962a604e4c3b9c51?rik=8TiqNFDk57FOaQ&riu=http%3a%2f%2fwww.baltana.com%2ffile%2f28255%2f700x394%2f16%3a9%2fgrunge-maroon-abstract-wallpaper-28336_1525918723.jpg&ehk=d7VK3wNkS9RAfz8lPEVBivHxdBLo%2bc1dE3KgroPoFHs%3d&risl=&pid=ImgRaw&r=0");
+    
+    background-position :center;
+
+    background-size: cover;
+    overflow: hidden;
+   
+
+}
+.c-background
+
+{  
+
+    /* background-image: url("https://t4.ftcdn.net/jpg/04/26/99/67/240_F_426996780_YcdKkrXlJWscEsqxrsoXMFgabjnk1R9P.jpg"); */
+    /*background-image: url("https://t3.ftcdn.net/jpg/04/27/26/88/240_F_427268884_ujRRSidmlzvvyb7J4ML5biHfsV7u2kgm.jpg");*/
+    background-position :center;
+    
+    background-size: cover;
+    overflow: hidden;
+   
+
+}
+
+.title{
+    color: black;
+}
+

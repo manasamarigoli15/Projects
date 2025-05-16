@@ -1,0 +1,14 @@
+<app-top-navbar></app-top-navbar>
+<div class="row my-2 mx-2">
+    <div class="col-12">
+        <div class="card shadow">
+            <div class="card-body">
+                <div class="card-body" *ngFor="let s of status">
+                    <span><h4 class="d-inline-block">Registration Id : {{s.registrationId}}</h4></span>
+                    <h5>{{s.feedBack}}</h5>
+                    <p>*If your details have been approved , Contact customer care for login credentials</p>
+                </div>                
+            </div>
+        </div>
+    </div>
+</div>

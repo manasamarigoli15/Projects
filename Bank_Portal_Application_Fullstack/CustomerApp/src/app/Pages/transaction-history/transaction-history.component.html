@@ -1,0 +1,53 @@
+<app-top-navbar></app-top-navbar>
+<app-home-mainnavbar></app-home-mainnavbar>
+<div class="container">
+    <div class="row float-end">
+        <div class="col-12">
+            <button type="button" style="color: rgb(159, 0, 0);" class="border border-secondary rounded" printSectionId="print" ngxPrint>Download as PDF</button>
+        </div>
+    </div>
+    
+    <div class="row mt-4">
+        <div class="col-12 text-center">
+            <h3 style="color: navy;">Transaction History</h3>
+        </div>
+    </div>
+    <div class="row" id="print">
+        <ul class="list-group mt-3 mb-3">
+            <li class="list-group-item py-3" style="background-color: rgb(234, 168, 168);">
+                <div class="row">
+                    <div class="col-3">
+                        <span><b>PAYER ACCOUNT NO.</b></span>
+                    </div>
+                    <div class="col-3">
+                        <span><b>PAYEE ACCOUNT NO.</b></span>
+                    </div>
+                    <div class="col-3">
+                        <span><b>TRANSACTION AMOUNT</b></span>
+                    </div>
+                    <div class="col-3">
+                        <span><b>DATE</b></span>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        <ul class="list-group">
+            <li class="list-group-item" *ngFor="let t of transactions">
+                <div class="row">
+                    <div class="col-3">
+                        <span>{{t.payerAccountNo}}</span>
+                    </div>
+                    <div class="col-3">
+                        <span>{{t.payeeAccountNo}}</span>
+                    </div>
+                    <div class="col-3">
+                        <span>{{t.transactionAmount}}</span>
+                    </div>
+                    <div class="col-3">
+                        <span>{{t.createdDate}}</span>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
